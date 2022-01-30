@@ -1,5 +1,5 @@
 # wear-down
-## One-click Maya Python script to wear down shapes into old concrete
+## One-click Maya 2020+ Python script to wear down shapes into old concrete
 
 ![header](/images/header.png)
 
