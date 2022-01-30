@@ -3,13 +3,13 @@
 
 ![header](/images/header.png)
 
-Just select a low-poly mesh of your choosing and run the script.
+Just select a low-poly mesh of your choosing and run the script. Looks at all the edges, chunks pieces off and then remeshes the whole thing with a bit of noise to make the surface more uneven.
 
 ### Variables
 
 - minChunkScale/maxChunkScale: How big the chunks taken off the mesh are by default
 
-- chunkDeformScale: Multiplier for how deformed chunks are based on the length of the edge of which they are in
+- chunkDeformScale: Multiplier for how deformed chunks are based on the length of their associated edge
 
 - chunkRatioPerUnit: Probability of chunking per edge length. 1.5 means that for a 2 meter edge, you get three chunks.
 
