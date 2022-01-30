@@ -11,6 +11,6 @@ Just select a low-poly mesh of your choosing and run the script.
 
 - chunkDeformScale: Multiplier for how deformed chunks are based on the length of the edge of which they are in
 
-- chunkRatioPerUnit: Probability of chunking per edge meter. 1.5 means that for a 2 meter edge, you get three chunks.
+- chunkRatioPerUnit: Probability of chunking per edge length. 1.5 means that for a 2 meter edge, you get three chunks.
 
 ![footer](/images/footer.png)
